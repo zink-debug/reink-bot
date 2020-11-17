@@ -1,1 +1,1 @@
-{"token":"Nzc2Njc0Mjc4NTE0NzUzNTM2.X64USQ.QU9TwyFvyqBBEaiwSnylvq6Tszk","client":"776674278514753536","tag":"reink:","case":"false","separator":"\\s+","modules":{"discord.js":["",true],"fstorm":["",true],"jimp":["",true]},"ownerId":"743510046394155038","Bot Intents":{"customData":{"Bot Intents":{"intents":-2}}}}
+{"token":"BOT-TOKEN","client":"BOT-CLIENT","tag":"BOT-PREFIX","case":"false","separator":"\\s+","modules":{"discord.js":["",true],"fstorm":["",true],"jimp":["",true]},"ownerId":"BOT-OWNER-ID","Bot Intents":{"customData":{"Bot Intents":{"intents":-2}}}}
